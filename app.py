@@ -4,6 +4,7 @@ import openpyxl as py
 # EDA Pkgs
 import pandas as pd 
 import numpy as np 
+import scipy.stats as stats
 from scipy.stats import pearsonr
 
 # Data Viz Pkg
