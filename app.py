@@ -24,6 +24,7 @@ def Show_Missing(x):
 def Show_Missing1(x):
     return x.isna().sum()
 
+
 def show_hist(x):
     return x.hist()
 
