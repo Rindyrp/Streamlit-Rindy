@@ -1,0 +1,150 @@
+Timestamp,"Nama Lengkap
+*contoh : Elon Musk","3 Digit NRP belakang
+*contoh : 005",Jenis Kelamin,"Nilai IP Semester 1
+*contoh : 3.79","Berat Badan (dalam kg)
+*penulisan hanya dengan angka, contoh : 60 ",Merk laptop yang digunakan,"Jarak dari tempat tinggal ke kampus (dalam km)
+*penulisan hanya dengan angka, contoh : 4","Tinggi badan (dalam cm)
+*penulisan hanya dengan angka, contoh : 160",Asal daerah,"Ukuran sepatu (dalam cm)
+*contoh : 24.5","Uang jajan per bulan (dalam rupiah)
+*tanpa titik, contoh : 1000000",Merk HP yang digunakan,"Pengeluaran uang saku per bulan (dalam rupiah)
+*tanpa titik, contoh : 700000","IP SKEM Smester 1
+*contoh : 3.50",Provider yang digunakan,"Waktu tempuh dari tempat tinggal ke jurusan (dalam menit)
+*contoh : 10","Pengeluaran kuota per bulan (dalam Gb)
+*contoh : 4",Jenis bensin yang digunakan,"Nilai ijazah
+*contoh : 87.5","Lama waktu belajar dalam seminggu (dalam jam)
+*contoh : 10",Merek motor yang digunakan
+2/24/2023 6:52:53,Satria Raditya N,001,Laki-laki,3.92,55,APPLE,2,175,Kota Semarang,28,500000,APPLE,500000,3.4,TELKOMSEL,10,30,Pertamax turbo,93.7,15,Honda
+2/24/2023 7:13:32,Rifki Zakaria,002,Laki-laki,3.2,70,ASUS,0.5,168,Pasuruan,43,200000,XIAOMI,500000,3.9,TELKOMSEL,10,5,-,87.5,14,-
+2/26/2023 11:01:59,Ahmad Abror,003,Laki-laki,3.62,54,MSI,4,165,Padang,26.5,2000000,VIVO,1500000,3.83,TELKOMSEL,15,20,Pertalite,94.78,7,Honda
+2/25/2023 20:19:45,Sella Nasrania ,004,Perempuan,3.8,60,DELL,4,164,Banyuwangi ,24.5,100000,SAMSUNG,800000,3.8,TELKOMSEL,5,15,Pertalite,92.5,15,Honda
+2/23/2023 20:48:54,Azzam Pahlawan Ramadhan,006,Laki-laki,3.85,71,LENOVO,3,171,Banyuwangi,43,1500000,SAMSUNG,1000000,3.85,INDOSAT,10,5,Pertalite,93.76,5,Honda
+2/25/2023 10:53:07,Revina Aprili Ghina Imani,008,Perempuan,3.68,52,LENOVO,2,162,Bondowoso,24.5,1000000,SAMSUNG,700000,3.52,INDOSAT,8,8,Pertalite,86.5,8,Honda
+2/23/2023 21:29:03,Amelia Kurnia Fitri ,009,Perempuan,3.82,43,DELL,1,158,Gresik,24.5,900000,Realme,700000,3.86,INDOSAT,5,10,Pertalite,91.7,12,Honda
+2/23/2023 22:20:56,Natasya Liana Putri,010,Perempuan,3.5,48,ACER,15,157,Bojonegoro,24,400000,VIVO,200000,3.45,Three,45,15,Pertalite,91.89,7,Honda
+2/23/2023 22:49:13,Ni Kadek Intan Olivia Italiyana,011,Perempuan,3.5,56,ASUS,3.5,165,Denpasar,24.5,1000000,OPPO,800000,3.5,INDOSAT,12,4,Pertalite,87.5,10,Honda
+2/23/2023 17:18:20,Irma Ningtiyas,013,Perempuan,3.62,45,ASUS,1,155,Kediri,24.5,700000,VIVO,800000,3.43,INDOSAT,5,10,Pertalite,92.45,10,Honda
+3/16/2023 22:26:09,Melynda Isaura,015,Perempuan,3.15,47,ASUS,7,156,Gresik,40,1000000,SAMSUNG,800000,3,XL,12,15,Pertalite,87.86,12,Honda
+3/16/2023 23:20:01,Naomi Pasaribu ,016,Perempuan,3.6,60,HP,2.5,155,Medan,37,1700000,VIVO,1500000,3.71,TELKOMSEL,7,11,-,99.66,16,Beat
+3/16/2023 22:21:31,Bintang Amirul M,017,Laki-laki,3.17,95,ASUS,24,188,Surabaya,47.5,30000,APPLE,30000,3.17,TELKOMSEL,40,8,Pertalite,87,6,Honda
+2/24/2023 15:51:47,Anggita Maharani,018,Perempuan,3.91,42,ASUS,0.75,158,Blitar,22.5,750000,VIVO,700000,3.76,INDOSAT,15,3,Pertalite,89.7,10,Honda
+3/16/2023 22:08:46,Hanni Putria Hartanti ,019,Perempuan,3.2,70,LENOVO,0.3,168,Kediri,28,1000000,OPPO,1100000,3.28,INDOSAT,3,50,Pertalite,88,10,Honda
+2/21/2023 18:49:06,Devynta Syabrina,020,Perempuan,3,80,DELL,2,165,Gresik,26.5,800,XIAOMI,900,3.5,INDOSAT,12,10,Pertalite,90.5,7,Honda
+2/23/2023 17:25:54,Rindy Retno Prihastari ,021,Perempuan,3.2,50,LENOVO,4,160,Nganjuk,24,600,LENOVO,500000,3.5,TELKOMSEL,15,6,Pertalite,88.5,12,Honda
+2/24/2023 7:21:12,Byrlianty Tsabita El Haqq,022,Perempuan,4,44,ASUS,0.8,160,Pasuruan,24.5,600000,VIVO,1200000,3,SMARTFREN,8,4,Pertalite,86,10,Yamaha
+2/23/2023 18:02:47,Monica Putri ,023,Perempuan,3.9,44,ASUS,3,158,Blitar,25,1000000,APPLE,700000,3.6,TELKOMSEL,10,15,Pertalite,90,10,Honda
+2/25/2023 1:44:19,Dzakki Damar Rabbani,024,Laki-laki,3.5,74,MacBook,3.3,179,Bekasi,27.5,1000000,SAMSUNG,1500000,3.5,TELKOMSEL,5,20,Pertalite,89,5,Honda
+2/24/2023 8:00:50,Sindy Ayu,025,Perempuan,3.62,48,LENOVO,25,160,Sidoarjo,21.5,1000000,APPLE,1000000,3.71,3,90,100000,Pertamax,90,20,Yamaha
+2/26/2023 15:01:09,Fhikri Haykal Oktarianto ,027,Laki-laki,3.5,53,ASUS,1.1,173,Probolinggo ,27.78,800000,OPPO,800000,3.32,XL,9,4,-,90.05,16,-
+2/26/2023 15:47:33,Sa'diyyah Divamia Amanda ,028,Perempuan,3.6,41,ASUS,1.1,159,Gresik,38,500000,OPPO,550000,3.94,INDOSAT,10,16,Pertalite,90,28,Honda
+2/25/2023 9:02:12,Oktaviana Nur Rohmatulillah,029,Perempuan,3.79,40,ASUS,1.6,160,Tulungagung,23.5,100000,SAMSUNG,500000,3.8,TELKOMSEL,10,14,Pertalite,85,24,Honda
+2/23/2023 22:53:40,Arum Antika ,030,Perempuan,3.44,37,ACER,3,146,Nganjuk ,36,500000,REALME,500000,3.89,TRI,10,10,Pertamax,89.8,21,Yamaha
+2/24/2023 7:00:51,Avinda Lutfi Anggraini Putri Buana ,031,Perempuan,3.15,58,HP,1,155,Kota Madiun,39,1000000,OPPO,700000,3.68,TELKOMSEL,5,6,Pertalite,89.73,14,Honda
+2/24/2023 0:00:50,Mukhammad Aliabit ,032,Laki-laki,3.3,65,LENOVO,2.5,174,Pasuruan,27,500000,SAMSUNG,1250000,3.3,TELKOMSEL,8.5,57,Pertalite,90,13,Honda
+2/20/2023 22:09:58,Faniya Mahesty Septiadi ,033,Perempuan,2.88,45,DELL,2,165,Nganjuk,25,500,VIVO,500,3.8,INDOSAT,18,4,Pertalite,80,4,Honda
+2/23/2023 20:07:28,Nurfajriyani ,034,Perempuan,0,40,ASUS,1,153,Bandung ,38,500000,XIAOMI,800000,3.91,3,5,15,Pertamax,88.75,10,Honda
+3/16/2023 22:29:48,Farhan Muhammad Rizqi,035,Laki-laki,4,60,HP,1,169,bekasi,43,2500000,XIAOMI,2000000,4,TELKOMSEL,1,17,Pertalite,87.5,12,Yamaha
+2/23/2023 19:42:01,Syefa Ilmi Beandita Putri,036,Perempuan,3.5,40,MSI,15,161,Surabaya,37,400000,SAMSUNG,250000,3.7,TELKOMSEL,50,7,Pertalite,90.25,16,Honda
+2/23/2023 20:15:46,Rakha Maheswara ,037,Laki-laki,3.24,60,HP,1,168,Pasuruan,26,1500000,XIAOMI,1500000,3.6,TELKOMSEL,7,17,Pertamax,84.4,6,Yamaha
+2/23/2023 18:19:15,Ammaar Razaan Yahya ,038,Laki-laki,3.56,84,LENOVO,26,180,Bandung Barat ,27.5,800000,REALME ,500000,3.65,TELKOMSEL,50,10,Pertamax turbo,87.67,10,Yamaha
+3/16/2023 22:22:48,Aditya Adinata,039,Laki-laki,3.38,46,LENOVO,0.7,168,Kediri,25.5,100000,rilmi,700000,3.8,INDOSAT,6,30,Pertalite,90,8,Honda
+2/23/2023 19:25:34,Muhamad Isa ,040,Laki-laki,3.35,75,ASUS,5,175,Mojokerto ,44,650000,XIAOMI,1800000,3.85,TELKOMSEL,15,10,shell super,87.5,24,Honda
+2/22/2023 19:37:30,Amelia Wijaya,041,Perempuan,3.15,41,ASUS,3,151,Gresik,23.5,1700000,APPLE,200000,2,SMARTFREN,10,4,Pertalite,87.7,7,Honda
+2/23/2023 22:37:58,Nur Fitri Mustika Ayu ,042,Perempuan,3.51,58,HP,3.2,164,Jakarta,39,1000000,OPPO,800000,3.7,3,10,10,tidak ada,90,10,tidak ada
+2/23/2023 18:07:32,Trian Servica ,043,Perempuan,3.54,49,LENOVO,0.7,168,Jombang,24.5,700000,XIAOMI,1500000,3.85,INDOSAT,10,50,Pertalite,88.86,21,Honda
+2/25/2023 11:23:01,Hellen Aldenia Rovi,045,Perempuan,3.21,65,DELL,17,169,Surabaya,27,1000000,SAMSUNG,850000,3.72,TELKOMSEL,45,6,Pertalite,90.83,6,Honda
+2/25/2023 12:02:44,Sutan Yafie Wirasena ,046,Laki-laki,2.81,78,ASUS,7,174,Surabaya,36,1000000,OPPO,550000,3.1,XL,27,16,Pertamax,83,6,Yamaha
+2/24/2023 13:18:43,Helvy Tiana Rosa Nabila ,047,Perempuan,3.25,53,LENOVO,4,160,Surabaya,25,600000,OPPO,400000,3,TELKOMSEL,15,10,Pertalite,88,10,Beat
+2/23/2023 19:58:24,M Bimo Aditya Fahreza,048,Laki-laki,3.32,59,ASUS,4,167,Surabaya,26.5,600000,Realme,400000,0,TELKOMSEL,12,6,Pertalite,89.05,10,Honda
+2/24/2023 6:52:16,Alyaa Nidya Shadrina Anwar,049,Perempuan,3.67,41,ROG,17,151,Sidoarjo,32,500000,XIAOMI,300000,3.1,Bima Tri,40,17,Pertalite,85,21,Honda
+2/24/2023 4:56:33,Moreno Reyhan Afriansyah ,050,Laki-laki,2.91,45,ASUS,4,170,Surabaya,41,200000,Realme,185000,3.3,Tri,15,3,Pertalite,88.5,10,Honda
+2/22/2023 21:06:49,Daniel Wicaksono Nugroho,051,Laki-laki,3.53,54,ACER,21,174,Sidoarjo,43,500000,OPPO,450000,4,TELKOMSEL,50,28,Pertamax,89.3,10,Yamaha
+2/24/2023 7:10:37,Anjani Lestari Hartanty,052,Perempuan,4.56,58,HP,19,160,Mojokerto,23.5,400000,XIAOMI,300000,0,INDOSAT,45,18,Pertalite,89,10,Yamaha
+2/23/2023 17:28:53,Siti Nabila,053,Perempuan,3.39,46,HP,4,157,madura,22,1800000,SAMSUNG,1000000,3.5,INDOSAT,5,50,Pertamax,95.5,10,Honda
+2/25/2023 11:40:56,Dwi Ilham Ramadhany ,054,Laki-laki,3.21,75,LENOVO,1,174,Bangkalan ,26.5,1000000,XIAOMI,800000,3.66,TELKOMSEL,10,8,Pertamax,90.04,20,Honda
+2/24/2023 6:11:38,Muhammad R Faathir Habibie,055,Laki-laki,2.68,85,LENOVO,28,162,Sidoarjo,26.7,200000,SAMSUNG,200000,3,TELKOMSEL,60,17,BP 92,99.33,20,Honda
+2/25/2023 5:46:17,Nadia Alma ,056,Perempuan,3.53,77,ASUS,1.1,158,bandung,24,2780000,APPLE,1400000,4,TELKOMSEL,5,13,bp95,89.8,14,Yamaha
+2/26/2023 15:00:48,Muhamad Akmal Hafiz Abidin,057,Laki-laki,3.06,75,ACER,2,177,Palembang,28.3,1000000,XIAOMI,800000,3.5,BY. U,15,100,Pertamax,87.5,8,Honda
+2/23/2023 22:35:22,virda wulandari,058,Perempuan,3.47,68,LENOVO,15,170,Surabaya,25,400000,VIVO,700000,3.45,INDOSAT,40,5,shell super,84,15,Honda
+3/16/2023 21:56:29,Puspa Damai Kukuh Hati,059,Perempuan,2.97,56,HP,11,165,Surabaya,39,600000,XIAOMI,400000,3.55,XL,30,15,Pertalite,86,24,Honda
+3/16/2023 22:58:32,Avika Niswata Mutia,060,Perempuan,3.29,51,ACER,0.5,157,Mojokerto,23,1000000,XIAOMI,1000000,3.29,INDOSAT,5,10,Pertalite,88,10,Honda
+2/22/2023 18:13:41,Dewi Putri Sekar Sari,061,Perempuan,3.82,49,ASUS,7,155,Surabaya,24,500000,APPLE,300000,3.2,TRI,25,6,Pertalite,91.5,14,Honda
+2/23/2023 18:12:38,Ovi Wahyu Adriani,062,Perempuan,3.09,46,ASUS,0.7,155,Nganjuk,22.5,100000,REALME,550000,3.68,TELKOMSEL,12,5,Pertalite,89.7,8,Honda
+2/25/2023 6:42:22,Muhammad Rizki,063,Laki-laki,3.52,60,ASUS,14,175,Surabaya,27,50000,XIAOMI,10000,3.52,INDOSAT,30,6,Super,88,7,Honda
+3/16/2023 21:40:06,Farhan Bramhatchi,064,Laki-laki,2.68,45,DELL,5,160,Surabaya,23.5,400000,Realme,300000,2.9,AXIS,20,8,Pertalite,86,6,Honda
+2/26/2023 12:28:26,Feny Ulil Amrina ,065,Perempuan,3.59,49,LENOVO,46,151,Gresik,24.5,150000,SAMSUNG,800000,3.55,INDOSAT,8,28,Pertalite,90.72,17,Honda
+2/24/2023 16:35:47,Juwita Nur Ihzza,066,Perempuan,3.62,63,ACER,2,156,Sidoarjo,25,500000,APPLE,500000,3.62,INDOSAT,10,2,Pertalite,90,10,Honda
+2/24/2023 9:45:12,Salsabila Aulia Azizah ,067,Perempuan,3.65,64,LENOVO,1.7,160,Mojokerto,39,1100000,OPPO,800000,3.65,SMARTFREN,6,10,Pertamax,89.61,10,Honda
+2/24/2023 7:06:45,Insania Firdausy,068,Perempuan,3.56,48,LENOVO,12,160,Surabaya,38,300000,SAMSUNG,200000,3.5,XL,30,4,Pertalite,87.69,15,Honda
+2/23/2023 20:30:31,Ranti Aninda,069,Perempuan,3.41,62,ASUS,5,168,Surabaya,25.5,650000,APPLE,600000,3.9,INDOSAT,25,15,BP 92,87.3,14,Yamaha
+3/16/2023 21:48:30,Timotius Edward,070,Laki-laki,2.12,112,LENOVO,1.8,181,Sidoarjo,46,3000000,Realme,2000000,1.75,INDOSAT,10,20,Pertalite,92.6,12,Yamaha
+2/24/2023 7:13:40,Naswa Sahira,071,Perempuan,3.56,51,ASUS,3,161,Surabaya,24,1000000,VIVO,500000,3.56,INDOSAT,11,6,Pertamax,89.8,12,Honda
+2/24/2023 7:07:09,Zahra Afifah Nafisa,072,Perempuan,3.3,45,LENOVO,2.3,155,Pasuruan,39,1000000,SAMSUNG,800000,3.37,TELKOMSEL,7,5,Pertalite,86.44,14,Honda
+2/23/2023 22:54:07,Rahayu Setianingrum,073,Perempuan,3.21,82,Toshiba,14,165,Surabaya,29.5,50,SAMSUNG,50,0,AXIS,40,32,Pertalite,80.9,10,Honda
+2/24/2023 8:33:00,Anindya Putri Noliza,074,Perempuan,3.25,54,LENOVO,2.1,152,Ponorogo,22,2000000,SAMSUNG,1500000,3.76,3,15,50,Pertalite,88,10,Honda
+3/18/2023 11:08:55,Naufalia Alfi Fuadah,075,Perempuan,2.76,40,LENOVO,1.5,153,Tulungagung,27,1000000,XIAOMI,900000,2.76,TELKOMSEL,5,10,Pertamax,87,9,Honda
+2/23/2023 18:10:50,FAMITA WIBI WULANDARI,076,Perempuan,3.32,47,LENOVO,3,153,Lumajang,22.5,1200000,SAMSUNG,800000,3.32,AXIS,3,12,Pertalite,92,10,Honda
+2/24/2023 22:39:09,Vira Angelina,077,Perempuan,4,50,ASUS,1,167,Banyuwangi,26,300000,XIAOMI,1000000,3.69,TELKOMSEL,9,10,Pertalite,86.5,15,Honda
+2/23/2023 15:33:59,Rifda Maulidya ,078,Perempuan,3.26,49,HP,1,155,Pamekasan,23.8,1200000,OPPO,900000,3.5,XL,3,18,Pertamax,88.6,7,Honda
+2/25/2023 11:23:26,damayanti zulvita aisyah,079,Perempuan,3.5,45,ACER,1.1,155,nganjuk,24,100000,VIVO,600000,0,INDOSAT,20,4,tidak pakai,91,20,tidak pake
+2/23/2023 18:18:48,Rico Dwi Firmansyah,080,Laki-laki,3.71,81,LENOVO,6.4,172,Surabaya,30,1500000,SAMSUNG,700000,3.53,INDOSAT,23,160,Pertamax,91.5,40,Honda
+2/22/2023 20:23:28,Talitha Fitri Rif'atila,081,Perempuan,3.55,42,MSI,3.9,153,Pasuruan,24.5,2500000,OPPO,2000000,3.4,TELKOMSEL,10,50,Pertamax,91,15,Honda
+2/23/2023 20:01:02,Serly Diah Puspitasari ,082,Perempuan,3.41,40,LENOVO,13,154,Surabaya,22,500000,SAMSUNG,700000,3.13,XL,35,50,Pertalite,89.69,8,Honda
+2/23/2023 18:00:19,Latifah Sekar Hanin,083,Perempuan,3.5,55,LENOVO,20,163,Sidoarjo,24.5,500000,XIAOMI,500000,3.5,TELKOMSEL,40,50,Pertalite,88.5,10,Honda
+2/24/2023 22:31:35,Muhammad Rafli Nugrahasyach,085,Laki-laki,3.56,66,ACER,18,179,Surabaya,25,750000,OPPO,500000,3.7,INDOSAT,40,4,Pertalite,85,7,Honda
+2/24/2023 16:03:17,Veronica Amelya Putri,086,Perempuan,3.1,44,ASUS,23,151,Sidoarjo,23,400000,VIVO,800000,3.5,TELKOMSEL,60,100,Pertalite,88,11,Honda
+2/25/2023 10:10:15,Ananda Nur ,087,Perempuan,3.77,60,HP,9,160,Surabaya,25,750000,VIVO,600000,3,TELKOMSEL,20,3,Pertamax,88,9,Honda
+2/25/2023 18:56:18,Arindah Maharani Saputri,088,Perempuan,3.47,70,LENOVO,16,162,Surabaya,25,500000,SAMSUNG,400000,2.15,INDOSAT,45,8,Pertamax,86.75,6,Honda
+2/25/2023 6:24:44,Khurotaayun Pesona Subagja,089,Perempuan,3.41,62,LENOVO,6,165,Bogor,41,750000,SAMSUNG,350000,3.1,INDOSAT,20,6,Pertalite,87.5,12,Yamaha
+2/25/2023 11:56:06,Nisa Abiba ,090,Perempuan,3.7,53,ASUS,1.5,162,Pasuruan,24.5,1000000,OPPO,800000,3.6,INDOSAT,10,10,Pertalite,87,15,Honda
+2/24/2023 4:16:11,Muhammad Hasan Alwi ,091,Laki-laki,3.18,69,ACER,8.9,168,Surabaya,25.5,400000,Poco,400000,3.3,TELKOMSEL,25,7,Super,86.8,21,Honda
+2/23/2023 23:12:46,Beryl Athaya,092,Perempuan,3.55,70,ACER,2,172,Ponorogo ,27,2000000,OPPO,1000000,3.72,TELKOMSEL,15,6,Pertalite,88.6,12,Honda
+2/23/2023 20:05:56,Nadya Anastasya ,093,Perempuan,3.29,47,HP,1,152,Mojokerto,22,300,OPPO,800,3.91,XL,15,5,-,91,6,-
+2/23/2023 18:56:05,Abror Isa Mustakim,094,Laki-laki,3.4,58,ACER,0.9,176,Pekalongan,34,1500000,VIVO,800000,3.6,INDOSAT,2,18,Pertalite,85,15,Vario
+2/24/2023 17:39:23,Fauzi Dwi Aryasatyawan,095,Laki-laki,3.2,70,LENOVO,12,171,Surabaya,43,500000,SAMSUNG,500000,0,INDOSAT,15,8,Pertalite,88,10,Honda
+2/24/2023 7:44:53,Gabriella Meisya Tiffani,096,Perempuan,3.68,52,AXIOO,13,155,Sidoarjo,23.5,300000,OPPO,300000,3.7,TELKOMSEL,50,25,Pertalite,91,8,Yamaha
+2/24/2023 22:40:22,Ratna Maulidah Wulandari,097,Perempuan,3.62,52,LENOVO,1,160,Jombang ,24,200000,Realmi ,700000,3.81,TELKOMSEL,5,5,Pertalite,91.2,28,Yamaha
+2/25/2023 5:43:42,Anggraeni Ervana Putri,098,Perempuan,3.3,50,ASUS,0.7,155,Gresik,39,100000,OPPO,600000,3.83,INDOSAT,15,10,-,91,14,-
+2/23/2023 19:42:50,Ahmad Valentama Taruna,099,Laki-laki,3.38,68,ACER,4,176,Kediri,42,1000000,Realme,750000,3.9,TELKOMSEL,12,8,Pertalite,82.5,3,Honda
+2/25/2023 13:11:35,Abghaza Bayu Kusuma Wardana Putra ,100,Laki-laki,3.76,52,HP,18,170,Sidoarjo,42,1200000,VIVO,1000000,0,AXIS,45,10,Pertalite,92.16,10,Honda
+2/23/2023 17:23:23,Melita Handayani,101,Perempuan,3.51,42,LENOVO,13,148,Surabaya,23.5,300000,XIAOMI,500000,3.4,TRI,35,60,Pertalite,89.5,8,Honda
+2/23/2023 16:55:03,Nur Latifatul Qolbi,102,Perempuan,3.38,55,HP,3,153,Jombang,23,900000,OPPO,700000,3.81,TELKOMSEL,10,7,Pertamax,89.5,15,Yamaha
+2/24/2023 16:37:58,Marcella Pramesti Putri,104,Perempuan,3.41,49,ASUS,22,158,Surabaya,25,500000,SAMSUNG,400000,3.92,TELKOMSEL,45,40,Pertalite,89.6,3,Honda
+2/24/2023 17:35:55,Nadia Salsabila Yasmin,105,Perempuan,3.5,46,LENOVO,0.7,158,Situbondo,22,1000000,XIAOMI,1000000,3.76,TELKOMSEL,10,12,Pertamax,89.8,15,Honda
+2/24/2023 6:17:00,Edbert Fernando,106,Laki-laki,3.38,68,ASUS,12,170,Jakarta,26.5,4000000,XIAOMI,1500000,0,INDOSAT,30,30,BP-95,82,0,Kawasaki
+2/25/2023 7:54:30,Hikmah Deviani ,107,Perempuan,3.06,42,ASUS,4,145,Lumajang ,37,550000,SAMSUNG,300000,3.7,TELKOMSEL,15,22,Pertamax,88.5,10,Honda
+2/25/2023 8:09:23,Nadifa Permata Sari,108,Perempuan,3.42,80,LENOVO,1.5,165,Madiun,42,400000,SAMSUNG,1000000,3.4,INDOSAT,5,10,Pertamax,89,14,Honda
+2/25/2023 8:34:30,Karisma Bunga Nirmala,109,Perempuan,3.79,46,HP,106,158,Kediri,39,1300000,SAMSUNG,900000,3.5,TELKOMSEL,7,20,Pertalite,91.7,12,Honda
+2/23/2023 20:38:44,Sang Bunga S,110,Perempuan,3.56,50,ASUS,15,150,Surabaya,23.5,300000,SAMSUNG,250000,3.33,TELKOMSEL,30,4,Pertalite,87.5,10,Honda
+2/24/2023 2:31:42,Salma Putri Fatikhah,111,Perempuan,3.7,50,ASUS,1,165,Madiun,24.5,1000000,SAMSUNG,700000,3.6,TELKOMSEL,15,25,Pertalite,88.88,7,Yamaha
+2/23/2023 17:26:51,Anis Syaifatul Azizah ,112,Perempuan,3.45,59,ASUS,3,161,Ponorogo ,23,2000000,OPPO,1500000,3.5,INDOSAT,5,30,Pertalite,88.7,10,Yamaha
+2/24/2023 1:11:41,Muhammad Irvan Athillah Sawerigading ,113,Laki-laki,3.18,57,ASUS,5.2,168,Lumajang ,24.5,1500000,OPPO,1400000,3.79,TELKOMSEL,12,26,Pertalite,83.81,21,Honda
+2/23/2023 23:14:01,Tabitha Madeline De Yong ,114,Perempuan,3.44,35,LENOVO,0.8,145,Lumajang,22.5,900000,XIAOMI,800000,3.76,TELKOMSEL,5,20,Pertamax,88,21,Honda
+2/24/2023 22:44:43,Arindra Megantara,115,Laki-laki,3.29,60,ASUS,4,171,Jombang,42,1500000,APPLE,1100000,3.72,TELKOMSEL,15,30,Pertamax,88,14,Honda
+2/24/2023 18:42:06,Rezkihana Nur Fadhilah,116,Perempuan,3.71,56,HP,2,160,Jombang,24.1,1500000,OPPO,1000000,3.79,TELKOMSEL,7,22,Pertalite,88,10,Honda
+2/25/2023 6:36:12,Elsa Amelia Nur Arimba,117,Perempuan,3.76,43,ACER,0.6,153,Madiun,24,300000,OPPO,850000,3.76,INDOSAT,5,35,Pertamax,89.87,15,Honda
+2/25/2023 7:47:48,Shafa Fariha Tsuraya ,118,Perempuan,3.41,47,ASUS,1,155,Purworejo ,25,1500000,SAMSUNG,1000000,0,INDOSAT,10,80,Pertamax,89,14,Honda
+2/23/2023 19:40:03,Riska Aisyah Widyaningsari,119,Perempuan,3.5,64,HP,15,157,Sidoarjo,25,1000000,realme,500000,3.5,live.on,45,40,Pertalite,90.3,10,Honda
+2/24/2023 2:35:13,Farellino Azhfar Ismail,121,Laki-laki,3,65,LENOVO,17,171,Sidoarjo,42,1000000,XIAOMI,700000,3,TELKOMSEL,40,15,Pertamax,87,10,Suzuki
+2/23/2023 18:02:33,Arsa Saladine,122,Laki-laki,3.15,81,DELL,10,182,Surabaya,29,900000,poco,700000,0,TELKOMSEL,25,19,Pertalite,87,14,Honda
+2/24/2023 7:23:41,Ehda Ayati Azkamila Rochman,123,Perempuan,3.56,54,DELL,1.2,157,Jombang,24,500000,VIVO,500000,3.56,INDOSAT,5,9,Pertalite,85.7,7,Honda
+2/25/2023 11:50:46,Dentina Dewi Amaliana,124,Perempuan,3.79,38,LENOVO,16,149,Surabaya,22,1000000,OPPO,700000,3.5,XL,30,4,Pertalite,87.5,10,Honda
+3/17/2023 5:58:16,Carissa Adibah Diya Ulhaq,125,Perempuan,3.21,44,ASUS,15,156,Surabaya,22.5,300000,SAMSUNG,250000,3.85,XL,30,7,Pertamax,86,3,Honda
+2/24/2023 22:26:53,Amanda Shofiyah Salsabila,126,Perempuan,3.56,64,ASUS,1,165,Gresik,39,1000000,XIAOMI,700000,3.7,XL,8,16,Pertalite,91.5,6,Honda
+2/24/2023 6:09:30,Amara Luzumi Sabila Haque,127,Perempuan,3,57,DELL,4,160,Tegal,23.5,800000,SAMSUNG,1000000,3.93,TELKOMSEL,14,24,Pertamax,88,10.5,Honda
+2/25/2023 8:35:26,Aisyatul Kamilah Ramadina ,128,Perempuan,2.88,50,ASUS,2.2,156,Gresik,23.5,500000,REALME,500000,3.76,TELKOMSEL,7,10,Pertalite,88,10,Honda
+2/26/2023 12:47:36,Arsen Awali Rahman Hakim,129,Laki-laki,0,52,HP,30,172,Sidoarjo,25,300000,XIAOMI,300000,3.8,TELKOMSEL,60,10,Pertalite,86,40,Honda
+2/25/2023 8:39:13,Daffa Putra,130,Laki-laki,3.32,60,DELL,3,170,Surabaya,25,500000,APPLE,500000,0,SMARTFREN,10,18,Pertalite,89.9,5,Honda
+2/21/2023 18:50:26,Nisrina Aulia Salsabila,131,Perempuan,3.22,44,LENOVO,3,153,Pasuruan,25.33,500,SAMSUNG,400,3.66,INDOSAT,7,2,Pertalite,89.2,5,Honda
+2/22/2023 20:30:12,Davina Mufidah ,132,Perempuan,3.41,45,HP,2,156,Madiun,37,2000000,VIVO,1500000,3.55,TELKOMSEL,10,20,Pertalite,89.9,12,Honda
+2/24/2023 6:30:43,I Kadek Veari Andramiko ,133,Laki-laki,3.21,78,LENOVO,3,182,Cilegon ,45.5,2000000,XIAOMI,1000000,3.5,TELKOMSEL,10,15,Pertamax,87.5,10,Honda
+3/17/2023 4:22:12,Putri Dita Prameswari ,134,Perempuan,3.2,70,HP,30,168,Sidoarjo,39,800000,XIAOMI,800000,3.5,TELKOMSEL,60,4,Pertalite,90.5,10,Honda
+3/18/2023 8:00:53,Novira Rahmatanisa Putri,135,Perempuan,3.48,70,HP,11,165,Surabaya,26,600000,SAMSUNG,500000,0,TELKOMSEL,30,4.5,Pertalite,88.97,14,Honda
+2/24/2023 22:59:17,Alesandro Yoel ,136,Laki-laki,4,55,ASUS,7,175,Surabaya,25.5,100000,Poco,50000,4,SMARTFREN,20,3,Pertalite,90,5,Honda
+3/16/2023 22:28:41,Ahmad Choiruden Albarr,137,Laki-laki,3.4,85,ASUS,3,176,Lumajang,43,2000000,OPPO,1500000,3.4,By.U,8,6,Shell Super,86,8,Honda
+3/18/2023 9:38:45,Maziyah Mufidah Wahyudiono,139,Perempuan,3.6,60,LENOVO,3,165,Surabaya,40,1000000,APPLE,6000000,3.5,TELKOMSEL,10,30,Pertalite,90.1,10,Yamaha
+2/25/2023 8:22:15,Octavia Ayu Wardhani,140,Perempuan,3.44,53,ASUS,19.2,156,Surabaya,39,500000,OPPO,480000,4,3,50,38,Pertalite,86.8,12,Honda
+2/24/2023 7:57:49,Annisa' Riskika Hayyu ,141,Perempuan,3.42,43,ASUS,5,162,Ponorogo,38,1000000,VIVO,1000000,3.65,INDOSAT,20,3,Pertalite,93.87,15,Honda
+2/23/2023 17:29:55,Maharani Indriyana,142,Perempuan,3.26,45,LENOVO,50,152,Banyuwangi,24,1500000,SAMSUNG,150000,3.88,TELKOMSEL,10,7,Pertalite,88.2,21,Yamaha
+2/23/2023 17:30:43,Jasmine Rayra Martiza,143,Perempuan,3.5,60,ASUS,1,160,Mojokerto,24,650000,OPPO,1000000,3.5,TELKOMSEL,5,30,Pertamax,89,8,Honda
+2/24/2023 11:02:14,Azizah Jois Pradani,144,Perempuan,3.6,56,LENOVO,5,153,Surabaya,24.5,500000,OPPO,450000,3.8,TELKOMSEL,20,8,Pertalite,84,15,Honda
+2/25/2023 8:25:52,Endita Prastyansyach,145,Laki-laki,2.78,80,LENOVO,20,175,Sidoarjo,29.5,100000,gaada,200000,3.5,TELKOMSEL,45,1,Pertalite,87.5,2,kawasaki
